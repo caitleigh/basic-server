@@ -17,11 +17,11 @@ Link to deployed site - https://caitsportfolio.herokuapp.com/
 
 ## Number and name of feature: Feature #2 Add functionality 
 
-Estimate of time needed to complete: 2 hours
+Estimate of time needed to complete: 3 hours
 
 Start time: 9:30am
 
-Finish time: _____
+Finish time: 1:40 - still in progress to add carousel images
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4+
 
